@@ -64,7 +64,7 @@ setuptools.setup(
     description="A python class to facilitate the reading of rosbag file based on semantic datatypes.",
     long_description=readme(),
     long_description_content_type="text/markdown",
-    url="https://github.com/jmscslgroup/bagpy",
+    url="https://github.com/BloomfieldRobotics/bagpy",
     packages=setuptools.find_packages(),
     install_requires=required_packages,
     extras_require=extra_packages,

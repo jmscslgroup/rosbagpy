@@ -17,7 +17,7 @@ if "six" in sys.modules:
             sys.path.remove(pypath)
     del sys.modules["six"]
 
-import matplotlib 
+import matplotlib
 
 matplotlib.use("agg")
 
