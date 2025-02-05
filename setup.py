@@ -24,7 +24,7 @@ required_packages=[
         'rospkg',
         'ipython',
         'py3rosmsgs',
-        'jinja2<3.1',
+        'jinja2',
         'pytest',
         'pandas',
         'setuptools-scm',
